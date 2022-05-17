@@ -77,4 +77,4 @@
   
 
 ## Screen Recording
-*The screen recording can be found in the folder - "Project 2 - Screenshots"*
+*The screen recording can be found here: https://youtu.be/bXZ5ZDbGgwo*
