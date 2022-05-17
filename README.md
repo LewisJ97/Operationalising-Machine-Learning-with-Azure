@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-*The main concepts throughout this project were using the Azure AutoML service to train and deploy a model, then consume the models performance indicators using Swagger UI through utilsing the REST API endpoint. The data used was the same bank marketing dataset used in project 1, contains data collected during direct marketing campaigns (phone calls) from a Portuguese banking institution, where the goal is to use this information about individuals to predict their receptiveness to additional marketing materials and products.*
+*The main concepts throughout this project were using the Azure AutoML service to train and deploy a model, then consume the models performance indicators using Swagger UI through utilising the REST API endpoint. The data used was the same bank marketing dataset used in project 1, contains data collected during direct marketing campaigns (phone calls) from a Portuguese banking institution, where the goal is to use this information about individuals to predict their receptiveness to additional marketing materials and products.*
 
 *As a continuation of what was learned throughout project 1, we not only obtain the best model using Azure AutoML, but we configure a cloud-based machine learning production model, deploy it (via an Azure Container Instance), and consume it.*
 
