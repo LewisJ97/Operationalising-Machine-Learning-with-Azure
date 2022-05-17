@@ -1,6 +1,3 @@
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
-
-
 # Udacity Project 2: Operationalising Machine Learning
 
 
@@ -14,7 +11,7 @@
 
 
 # Key Steps
-*TODO*: Write a short discription of the key steps. Remeber to include all the screencasts required to demonstrate key steps. 
+
 ## AutoML
 *The first stage required developing an AutoML model that we could then deploy. At this point, security is enabled and authentication is completed. In this step, we created a dataset, an experiment using Automated ML, configured a compute cluster, and used that cluster to run the experiment.*
 
@@ -80,4 +77,4 @@
   
 
 ## Screen Recording
-*The screen recording can be found in the folder 
+*The screen recording can be found in the folder - *
