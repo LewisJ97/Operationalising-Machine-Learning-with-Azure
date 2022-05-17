@@ -77,4 +77,4 @@
   
 
 ## Screen Recording
-*The screen recording can be found in the folder - *
+*The screen recording can be found in the folder - "Project 2 - Screenshots"*
